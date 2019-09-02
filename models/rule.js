@@ -1,3 +1,5 @@
+//TODO validate function in both classes, and maybe have them implement a common interface
+
 class Rule {
     constructor (booleanOperator, conditions) {
         this.booleanOperator = booleanOperator;
